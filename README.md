@@ -19,7 +19,7 @@
 👋 Hola, soy Jhoshef.
 🎓 Estudiante de Ingeniería de Software.
 
-💻 Enfocado en el desarrollo web con HTML, CSS y JavaScript.
+💻 Enfocado en el desarrollo web, actualmente con HTML, CSS y JavaScript.
 
 🚀 Aprendiendo nuevas tecnologías y construyendo proyectos para crecer como desarrollador Full Stack.
 
