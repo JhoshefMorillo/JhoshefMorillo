@@ -18,7 +18,14 @@
 
 <p align="left">
 
-I'm a Software Engineering student from Peru with a strong passion for web development and creating clean, responsive, and user-friendly interfaces. I enjoy turning ideas into real projects while continuously improving my problem-solving skills and writing clean, maintainable code. Currently, I'm focused on mastering HTML, CSS, and JavaScript as I work toward becoming a Full Stack Developer.
+I'm a Software Engineering student from Peru passionate about building<br>
+modern, responsive, and user-friendly web applications.<br><br>
+
+I enjoy transforming ideas into real projects while continuously improving<br>
+my programming skills and writing clean, maintainable code.<br><br>
+
+Currently, I'm expanding my knowledge of HTML, CSS, and JavaScript<br>
+on my journey to becoming a Full Stack Developer.
 
 </p>
 
