@@ -53,4 +53,3 @@ on my journey to becoming a Full Stack Developer.
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48"/>
 </a>
 
-</p>
