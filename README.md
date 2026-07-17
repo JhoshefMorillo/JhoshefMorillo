@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![Uploading ChatGPT Image 16 jul 2026, 10_59_25 p.m..png…]()
-" alt="Banner JhoshefDev" width="100%">
+  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000008698720e9c1e93719d3c9840&ts=495626&p=fs&cid=1&sig=e01ea9f57c587b17e6d490543352221f4537a6cd6939035088925ecb291d71a0&v=0" alt="Banner JhoshefDev" width="100%">
 </p>
 
 <h1 align="center">Hola, soy JhoshefDev👋 </h1> 
