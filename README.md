@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000008698720e9c1e93719d3c9840&ts=495626&p=fs&cid=1&sig=e01ea9f57c587b17e6d490543352221f4537a6cd6939035088925ecb291d71a0&v=0" alt="Banner JhoshefDev" width="100%">
+  <img src="./assets/banner.png" alt="Banner JhoshefDev" width="100%">
 </p>
 
-<h1 align="center">Hola, soy JhoshefDev👋 </h1> 
+<h1 align="center">Hola, soy JhoshefDev 👋</h1>
 
 <p align="Center">
 <a href="https://www.linkedin.com/in/jhoshefmorillodev" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@Anton-dev3306"/></a>
