@@ -19,9 +19,7 @@ as the first step toward becoming a Full Stack Developer.<br><br>
 I enjoy turning ideas into real, working projects — building interfaces that are<br>
 clean, responsive, and easy to use.<br><br>
 Right now I'm strengthening my foundations in <strong>HTML, CSS, and JavaScript</strong>,<br>
-while learning <strong>Git and GitHub</strong> for version control and collaboration.<br><br>
-I'm actively looking for an internship opportunity where I can apply what I'm<br>
-learning, keep growing as a developer, and contribute to real projects.
+while learning <strong>Git and GitHub</strong> for version control and collaboration.
 </p>
 
 <br>
@@ -31,22 +29,16 @@ learning, keep growing as a developer, and contribute to real projects.
 <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode&theme=dark" />
 </p>
 
-
 <br>
 
-<h2 align="left">📬 Connect With Me</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 <p align="left">
-<a href="mailto:jhoshefdev@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/jhoshefmorillodev">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=jhoshefdev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jhoshefdev&theme=dark&hide_border=true&background=0d1117" height="165"/>
 </p>
 
-
 <br>
+
 <h2 align="left">🚀 Projects</h2>
 
 <table>
@@ -65,4 +57,24 @@ learning, keep growing as a developer, and contribute to real projects.
     </td>
   </tr>
 </table>
+
+<br>
+
+<h2 align="left">📈 Contribution Graph</h2>
+<p align="left">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jhoshefdev&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
+</p>
+
+<br>
+
+<h2 align="left">📬 Connect With Me</h2>
+<p align="left">
+<a href="mailto:jhoshefdev@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/jhoshefmorillodev">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48"/>
+</a>
+</p>
 
