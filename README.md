@@ -12,62 +12,73 @@
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     alt="JhoshefDev Gmail"
   />
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hey, I'm Jhoshef
+
+### Software Engineering Student | Frontend Developer
+
+I'm a Software Engineering student from Peru, passionate about creating modern, responsive, and user-friendly web applications.
+
+Currently focused on building projects with **HTML, CSS, and JavaScript**, while continuously learning new technologies to become a Full Stack Developer.
+
+📧 **Email:** jhoshefdev@gmail.com
+
+---
+
+# 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+# 📂 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🚀 Project One | Modern responsive website. |
+| 💼 Project Two | Portfolio website. |
+| 📱 Project Three | Landing page design. |
+| ⚡ Project Four | JavaScript web application. |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JhoshefMorillo&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoshefMorillo&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=JhoshefMorillo&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌎 Connect with me
+
+<p align="left">
+
+<a href="https://github.com/JhoshefMorillo">
+<img src="https://skillicons.dev/icons?i=github&theme=dark"/>
 </a>
-  </p>
-<br>
-<h1 align=Left>Sobre mi 😃</h1>
-<!--Intro start-->
 
-<div align="left">
+<a href="https://linkedin.com/in/jhoshefmorillodev">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
+</a>
 
-👋 Hola, soy Jhoshef.
-🎓 Estudiante de Ingeniería de Software.
+<a href="mailto:jhoshefdev@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark"/>
+</a>
 
-💻 Enfocado en el desarrollo web, actualmente con HTML, CSS y JavaScript.
-
-🚀 Aprendiendo nuevas tecnologías y construyendo proyectos para crecer como desarrollador Full Stack.
-
-📫 Contacto:
-<a href="mailto:jhoshefdev@gmail.com"><strong>jhoshefdev@gmail.com</strong></a>
-
-</div>
-
-
-<br>
-
-<h1 align="left">Tecnologías conocidas 💻</h1>
-<!--tech stack icons-->
-<div align=Left>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,=light" />
-  </a>
-  </div>
-<br> 
-
-
-<h1 align="left">Algunos proyectos 🚀</h1>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="LINK_PROYECTO_1" target="_blank">
-        <img src="IMAGEN_PROYECTO_1" width="250">
-      </a>
-    </td>
-    <td align="center">
-      <a href="LINK_PROYECTO_2" target="_blank">
-        <img src="IMAGEN_PROYECTO_2" width="250">
-      </a>
-    </td>
-    <td align="center">
-      <a href="LINK_PROYECTO_3" target="_blank">
-        <img src="IMAGEN_PROYECTO_3" width="250">
-      </a>
-    </td>
-    <td align="center">
-      <a href="LINK_PROYECTO_4" target="_blank">
-        <img src="IMAGEN_PROYECTO_4" width="250">
-      </a>
-    </td>
-  </tr>
-</table>
+</p>
