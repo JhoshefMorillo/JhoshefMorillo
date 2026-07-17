@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="URL_DE_TU_IMAGEN" alt="Banner JhoshefDev" width="100%">
+</p>
+
+<h1 align="center">Hola, soy JhoshefDev 👋</h1>
+
 <h1 align="center">Hola, soy JhoshefDev👋 </h1> 
 
 <p align="Center">
