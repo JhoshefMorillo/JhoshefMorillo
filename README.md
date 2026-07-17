@@ -8,8 +8,6 @@
 <h1>Hi, I'm Jhoshef 👋</h1>
 <h3>Software Engineering Student • Aspiring Full Stack Developer</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:111827&height=120&section=header" width="100%"/>
-
 </div>
 
 <br>
@@ -69,4 +67,4 @@ learning, keep growing as a developer, and contribute to real projects.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:111827&height=100&section=footer" width="100%"/>
+
