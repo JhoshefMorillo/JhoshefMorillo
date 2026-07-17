@@ -1,65 +1,80 @@
-<p align="center">
-  <img src="./assets/Banner.png" alt="Banner JhoshefDev" width="100%">
+<div align="center">
+
+<img src="Banner.png" width="100%"/>
+
+<br><br>
+
+<h1>Hi, I'm Jhoshef 👋</h1>
+
+<h3>
+Software Engineering Student • Frontend Developer
+</h3>
+
+<p>
+Building modern and responsive web applications.
 </p>
-
-<h1 align="center">Hello, I'm JhoshefDev 👋</h1>
-
-</a>
-  </p>
-<br>
-<h1 align=Left>Sobre mi 😃</h1>
-<!--Intro start-->
-
-<div align="left">
-
-👋 Hola, soy Jhoshef.
-🎓 Estudiante de Ingeniería de Software.
-
-💻 Enfocado en el desarrollo web, actualmente con HTML, CSS y JavaScript.
-
-🚀 Aprendiendo nuevas tecnologías y construyendo proyectos para crecer como desarrollador Full Stack.
-
-📫 Contacto:
-<a href="mailto:jhoshefdev@gmail.com"><strong>jhoshefdev@gmail.com</strong></a>
 
 </div>
 
-
 <br>
+<h2>About Me</h2>
 
-<h1 align="left">Tecnologías conocidas 💻</h1>
-<!--tech stack icons-->
-<div align=Left>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,=light" />
-  </a>
-  </div>
-<br> 
+<p>
 
+💻 Passionate about web development.
 
-<h1 align="left">Algunos proyectos 🚀</h1>
+🎓 Software Engineering Student.
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="LINK_PROYECTO_1" target="_blank">
-        <img src="IMAGEN_PROYECTO_1" width="250">
-      </a>
-    </td>
-    <td align="center">
-      <a href="LINK_PROYECTO_2" target="_blank">
-        <img src="IMAGEN_PROYECTO_2" width="250">
-      </a>
-    </td>
-    <td align="center">
-      <a href="LINK_PROYECTO_3" target="_blank">
-        <img src="IMAGEN_PROYECTO_3" width="250">
-      </a>
-    </td>
-    <td align="center">
-      <a href="LINK_PROYECTO_4" target="_blank">
-        <img src="IMAGEN_PROYECTO_4" width="250">
-      </a>
-    </td>
-  </tr>
-</table> como mejorar esto? en ingles y color dark para mi github perfil readme
+🚀 Currently building projects with HTML, CSS and JavaScript.
+
+📚 Learning new technologies to become a Full Stack Developer.
+
+</p>
+
+<h2>Tech Stack</h2>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark"/>
+
+</p>
+
+<h2>GitHub Stats</h2>
+
+<p align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=JhoshefMorillo&theme=github_dark&show_icons=true&hide_border=true"
+/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoshefMorillo&layout=compact&theme=github_dark&hide_border=true"
+/>
+
+</p>
+
+<h2>Connect With Me</h2>
+
+<p>
+
+<a href="mailto:jhoshefdev@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark"/>
+
+</a>
+
+<a href="https://linkedin.com/in/jhoshefmorillodev">
+
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
+
+</a>
+
+<a href="https://github.com/JhoshefMorillo">
+
+<img src="https://skillicons.dev/icons?i=github&theme=dark"/>
+
+</a>
+
+</p>
