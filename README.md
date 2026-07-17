@@ -31,14 +31,6 @@ while learning <strong>Git and GitHub</strong> for version control and collabora
 
 <br>
 
-<h2 align="left">📊 GitHub Stats</h2>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=jhoshefdev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jhoshefdev&theme=dark&hide_border=true&background=0d1117" height="165"/>
-</p>
-
-<br>
-
 <h2 align="left">🚀 Projects</h2>
 
 <table>
@@ -57,13 +49,6 @@ while learning <strong>Git and GitHub</strong> for version control and collabora
     </td>
   </tr>
 </table>
-
-<br>
-
-<h2 align="left">📈 Contribution Graph</h2>
-<p align="left">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jhoshefdev&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
-</p>
 
 <br>
 
