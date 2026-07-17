@@ -4,77 +4,52 @@
 
 <br><br>
 
+<div align="center">
+
 <h1>Hi, I'm Jhoshef 👋</h1>
 
-<h3>
-Software Engineering Student • Frontend Developer
-</h3>
-
-<p>
-Building modern and responsive web applications.
-</p>
+<h3>Software Engineering Student • Frontend Developer</h3>
 
 </div>
 
 <br>
-<h2>About Me</h2>
 
-<p>
+<h2 align="left">About Me</h2>
 
-💻 Passionate about web development.
+<p align="left">
 
-🎓 Software Engineering Student.
+• 🎓 Software Engineering student passionate about building modern and responsive web applications.<br><br>
 
-🚀 Currently building projects with HTML, CSS and JavaScript.
+• 💻 Currently working with HTML, CSS and JavaScript while strengthening my frontend development skills.<br><br>
 
-📚 Learning new technologies to become a Full Stack Developer.
-
-</p>
-
-<h2>Tech Stack</h2>
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark"/>
+• 🚀 Continuously learning new technologies and creating projects to become a Full Stack Developer.<br>
 
 </p>
 
-<h2>GitHub Stats</h2>
+<br>
 
-<p align="center">
+<h2 align="left">Tech Stack</h2>
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=JhoshefMorillo&theme=github_dark&show_icons=true&hide_border=true"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoshefMorillo&layout=compact&theme=github_dark&hide_border=true"
-/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
 </p>
 
-<h2>Connect With Me</h2>
+<br>
 
-<p>
+<h2 align="left">Connect With Me</h2>
+
+<p align="left">
 
 <a href="mailto:jhoshefdev@gmail.com">
-
-<img src="https://skillicons.dev/icons?i=gmail&theme=dark"/>
-
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48"/>
 </a>
 
 <a href="https://linkedin.com/in/jhoshefmorillodev">
-
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
-
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48"/>
 </a>
 
 <a href="https://github.com/JhoshefMorillo">
-
-<img src="https://skillicons.dev/icons?i=github&theme=dark"/>
-
+<img src="https://skillicons.dev/icons?i=github&theme=dark" height="48"/>
 </a>
 
 </p>
