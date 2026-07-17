@@ -77,4 +77,3 @@ while learning <strong>Git and GitHub</strong> for version control and collabora
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48"/>
 </a>
 </p>
-
