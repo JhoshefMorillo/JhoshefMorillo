@@ -54,11 +54,11 @@ while learning <strong>Git and GitHub</strong> for version control and collabora
 
 <h2 align="left">📬 Connect With Me</h2>
 <p align="left">
-<a href="mailto:jhoshefdev@gmail.com">
+<a href="mailto:jhoshefdev@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/jhoshefmorillodev">
+<a href="https://linkedin.com/in/jhoshefmorillodev" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48"/>
 </a>
 </p>
