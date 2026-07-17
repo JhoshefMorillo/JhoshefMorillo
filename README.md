@@ -2,7 +2,7 @@
   <img src="./assets/banner.png" alt="Banner JhoshefDev" width="100%">
 </p>
 
-<h1 align="center">Hola, soy JhoshefDev 👋</h1>
+<h1 align="center">Hello, I'm JhoshefDev 👋</h1>
 
 <p align="Center">
 <a href="https://www.linkedin.com/in/jhoshefmorillodev" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@Anton-dev3306"/></a>
