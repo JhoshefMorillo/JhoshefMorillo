@@ -3,12 +3,12 @@
 <img src="./assets/Banner.png" width="100%"/>
 
 <br><br>
-
-<br><br>
 <div align="center">
 
 <h1>Hi, I'm Jhoshef 👋</h1>
 <h3>Software Engineering Student • Aspiring Full Stack Developer</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:111827&height=120&section=header" width="100%"/>
 
 </div>
 
@@ -36,13 +36,23 @@ learning, keep growing as a developer, and contribute to real projects.
 <br>
 
 <h2 align="left">🚀 Projects</h2>
-<p align="left">
 
-| Project | Description | Tech | Link |
-|---|---|---|---|
-| _Coming soon_ | _Your first project will go here_ | — | — |
-
-</p>
+<table>
+  <tr>
+    <td align="center" width="300">
+      <img src="https://placehold.co/300x180/0d1117/58a6ff?text=Coming+Soon" width="100%" style="border-radius:8px" /><br>
+      <b>Project name here</b><br>
+      <sub>Short description of the project</sub><br><br>
+      <a href="#">🔗 View Repo</a>
+    </td>
+    <td align="center" width="300">
+      <img src="https://placehold.co/300x180/0d1117/58a6ff?text=Coming+Soon" width="100%" style="border-radius:8px" /><br>
+      <b>Project name here</b><br>
+      <sub>Short description of the project</sub><br><br>
+      <a href="#">🔗 View Repo</a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -56,3 +66,7 @@ learning, keep growing as a developer, and contribute to real projects.
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48"/>
 </a>
 </p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:111827&height=100&section=footer" width="100%"/>
