@@ -14,29 +14,25 @@
 
 <br>
 
-<h2 align="left">About Me</h2>
+<h2 align="left">💫 About Me</h2>
 
 <p align="left">
 
-• 🎓 Software Engineering student passionate about building modern and responsive web applications.<br><br>
-
-• 💻 Currently working with HTML, CSS and JavaScript while strengthening my frontend development skills.<br><br>
-
-• 🚀 Continuously learning new technologies and creating projects to become a Full Stack Developer.<br>
+I'm a Software Engineering student from Peru with a strong passion for web development and creating clean, responsive, and user-friendly interfaces. I enjoy turning ideas into real projects while continuously improving my problem-solving skills and writing clean, maintainable code. Currently, I'm focused on mastering HTML, CSS, and JavaScript as I work toward becoming a Full Stack Developer.
 
 </p>
 
 <br>
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">💻 Tech Stack</h2>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,vscode&theme=dark" />
 </p>
 
 <br>
 
-<h2 align="left">Connect With Me</h2>
+<h2 align="left">📬 Connect With Me</h2>
 
 <p align="left">
 
@@ -44,12 +40,10 @@
 <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://linkedin.com/in/jhoshefmorillodev">
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48"/>
-</a>
-
-<a href="https://github.com/JhoshefMorillo">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" height="48"/>
 </a>
 
 </p>
