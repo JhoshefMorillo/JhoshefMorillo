@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="URL_DE_TU_IMAGEN" alt="Banner JhoshefDev" width="100%">
+  <img src="![Uploading ChatGPT Image 16 jul 2026, 10_59_25 p.m..png…]()
+" alt="Banner JhoshefDev" width="100%">
 </p>
-
-<h1 align="center">Hola, soy JhoshefDev 👋</h1>
 
 <h1 align="center">Hola, soy JhoshefDev👋 </h1> 
 
