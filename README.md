@@ -31,8 +31,22 @@ learning, keep growing as a developer, and contribute to real projects.
 <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode&theme=dark" />
 </p>
 
+
 <br>
 
+<h2 align="left">📬 Connect With Me</h2>
+<p align="left">
+<a href="mailto:jhoshefdev@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/jhoshefmorillodev">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48"/>
+</a>
+</p>
+
+
+<br>
 <h2 align="left">🚀 Projects</h2>
 
 <table>
@@ -51,20 +65,4 @@ learning, keep growing as a developer, and contribute to real projects.
     </td>
   </tr>
 </table>
-
-<br>
-
-<h2 align="left">📬 Connect With Me</h2>
-<p align="left">
-<a href="mailto:jhoshefdev@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/jhoshefmorillodev">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48"/>
-</a>
-</p>
-
-<br>
-
 
