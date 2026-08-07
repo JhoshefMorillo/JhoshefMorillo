@@ -31,24 +31,7 @@ while learning <strong>Git and GitHub</strong> for version control and collabora
 
 <br>
 
-<h2 align="left">🚀 Projects</h2>
 
-<table>
-  <tr>
-    <td align="center" width="300">
-      <img src="https://placehold.co/300x180/0d1117/58a6ff?text=Coming+Soon" width="100%" style="border-radius:8px" /><br>
-      <b> Generador de QR gratuito </b><br>
-      <sub>Desarrollé este generador de códigos QR con un enfoque en la rapidez, la personalización y una excelente experiencia de usuario. Permite crear códigos QR para enlaces, textos y más, personalizarlos completamente y descargarlos en formatos SVG, PNG y PDF. Además, cuenta con un diseño moderno, responsivo y optimizado para cualquier dispositivo.</sub><br><br>
-      <a href="https://jhoshefmorillo.github.io/jm-qr/">🔗 View Repo</a>
-    </td>
-    <td align="center" width="300">
-      <img src="https://placehold.co/300x180/0d1117/58a6ff?text=Coming+Soon" width="100%" style="border-radius:8px" /><br>
-      <b>Project name here</b><br>
-      <sub>Short description of the project</sub><br><br>
-      <a href="#">🔗 View Repo</a>
-    </td>
-  </tr>
-</table>
 
 <br>
 
