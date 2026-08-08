@@ -1,41 +1,28 @@
 <div align="center">
-
 <img src="./assets/Banner.png"/>
-
 <br><br>
 <div align="center">
-
-<h1>Hi, I'm Jhoshef 👋</h1>
-<h3>Software Engineering Student • Aspiring Full Stack Developer</h3>
-
+<h1>Hola, soy Jhoshef 👋</h1>
+<h3>Estudiante de Ingeniería de Software • Aspirante a Desarrollador Full Stack</h3>
 </div>
-
 <br>
-
-<h2 align="left">💫 About Me</h2>
+<h2 align="left">💫 Sobre Mí</h2>
 <p align="left">
-I'm a Software Engineering student from Peru, currently focused on Frontend Development<br>
-as the first step toward becoming a Full Stack Developer.<br><br>
-I enjoy turning ideas into real, working projects — building interfaces that are<br>
-clean, responsive, and easy to use.<br><br>
-Right now I'm strengthening my foundations in <strong>HTML, CSS, and JavaScript</strong>,<br>
-while learning <strong>Git and GitHub</strong> for version control and collaboration.
+Soy estudiante de Ingeniería de Software en Perú, actualmente enfocado en Desarrollo Frontend<br>
+como primer paso hacia convertirme en Desarrollador Full Stack.<br><br>
+Me gusta convertir ideas en proyectos reales y funcionales — construyendo interfaces que sean<br>
+limpias, responsivas y fáciles de usar.<br><br>
+Ahora mismo estoy fortaleciendo mis bases en <strong>HTML, CSS y JavaScript</strong>,<br>
+mientras aprendo <strong>Git y GitHub</strong> para control de versiones y colaboración.
 </p>
-
 <br>
-
-<h2 align="left">💻 Tech Stack</h2>
+<h2 align="left">💻 Stack Tecnológico</h2>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode&theme=dark" />
 </p>
-
 <br>
-
-
-
 <br>
-
-<h2 align="left">📬 Connect With Me</h2>
+<h2 align="left">📬 Conecta Conmigo</h2>
 <p align="left">
 <a href="mailto:jhoshefdev@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48"/>
